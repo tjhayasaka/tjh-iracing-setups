@@ -1,1 +1,3 @@
 -Current-
+setups/*/*
+!setups/*/AAAA-tjh-20[0-9][0-9]
