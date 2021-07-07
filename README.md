@@ -10,13 +10,13 @@ Who am I?
 ---------
 
   - Living in iRacing as "Tomoaki Hayasaka".
-  - DISCLAIMER:  My dirt-oval iRating is around 2500 (as of Jul 2021) - not particularly noob, but slow.
-  - DISCLAIMER:  I never drove a car in real life.  I don't have a driver's license.
+  - DISCLAIMER:  My dirt-oval iRating is around 2500 (as of Jul 2021) - not particularly noob, but definitely slow.
+  - DISCLAIMER:  I've never driven a car in real life.  I don't have a driver's license.
 
 How To Use
 ----------
 
-Browse, select and download a setup file ("*.sto" file) you need and move it to your iRacing setup folder (default: `C:/Users/#{yourname}/Documents/iracing/setups/#{carname}/`).  Sometimes there are multiple files for same track/car.  Last one is latest (and the best for me).
+Browse, select and download a setup file ("*.sto" file) you need and move it to your iRacing setup folder (default: `C:/Users/#{yourname}/Documents/iRacing/setups/#{carname}/`).  Sometimes there are multiple files for same track/car.  Last one is latest (and the best for me).
 
 Alternatively, as a matter of course, you can clone this repository too.  Symlink is your friend in this case.
 
