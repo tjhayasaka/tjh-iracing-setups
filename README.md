@@ -10,8 +10,8 @@ Who am I?
 ---------
 
   - Living in iRacing as "Tomoaki Hayasaka".
-  - My dirt-oval iRating is around 2500 (as of Jul 2021) - not particularly noob, but slow.
-  - I never drove a car in real life.  I don't have a driver's license.
+  - DISCLAIMER:  My dirt-oval iRating is around 2500 (as of Jul 2021) - not particularly noob, but slow.
+  - DISCLAIMER:  I never drove a car in real life.  I don't have a driver's license.
 
 How To Use
 ----------
