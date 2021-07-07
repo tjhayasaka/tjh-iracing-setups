@@ -10,13 +10,13 @@ Who am I?
 ---------
 
   - Living in iRacing as "Tomoaki Hayasaka".
-  - My dirt-oval iRating is around 2500 (as of Jul 2021) - not particularly noob but slow.
+  - My dirt-oval iRating is around 2500 (as of Jul 2021) - not particularly noob, but slow.
   - I never drove a car in real life.  I don't have a driver's license.
 
 How To Use
 ----------
 
-Browse, select and download a setup file (*.sto file) you need and move it to your iRacing setup folder (default: `C:/Users/#{yourname}/Documents/iracing/setups/#{carname}/`).  Sometimes there are multiple files for same track/car.  Last one is latest (and the best for me).
+Browse, select and download a setup file ("*.sto" file) you need and move it to your iRacing setup folder (default: `C:/Users/#{yourname}/Documents/iracing/setups/#{carname}/`).  Sometimes there are multiple files for same track/car.  Last one is latest (and the best for me).
 
 Alternatively, as a matter of course, you can clone this repository too.  Symlink is your friend in this case.
 
@@ -53,6 +53,13 @@ Other Setup Resources
     https://members.iracing.com/jforum/posts/list/3674031.page (old forum)
 
     This is a comprehensive guide to sprint car setup with a lot of info about both general principles and iRacing physics.
+
+License
+-------
+
+This set is distributed under Creative Commons Zero v1.0 Universal (cc0-1.0) license and public domain.
+
+You can use, modify, copy, sell, boil and eat this set at your own risk.  &#127245;&#127342;
 
 Colophon
 --------
