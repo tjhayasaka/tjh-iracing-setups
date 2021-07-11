@@ -39,6 +39,14 @@ It is incremented when a change is made since last publish.
 Other Setup Resources
 ---------------------
 
+  - "iracing-setup-diff - Yet Another iRacing Setup Diff/Comparison Tool"<br>
+    https://github.com/tjhayasaka/iracing-setup-diff/
+
+  - "iRacing Setup Sync"<br>
+    https://iracingsetupsync.nickthissen.nl/
+
+    Says "It operates on a large database of setups, which is synced to most of the popular Setup Shops on the iRacing forums and therefore always contains the latest setups, even those shared on the forums."
+
   - "410 Winged Sprint Car / Setups and Adjustments. Have Fun!" by Shae Paulo<br>
     https://members.iracing.com/jforum/posts/list/3796706.page (old forum)
 
